@@ -1,0 +1,11 @@
+0.2 2009-04-21
+	- Fixed Makefile bugs
+	- Replaced rand() and srand() by random() and srandom() for improved
+	  random numbers
+	- Added colors customization feature
+	- Added space between cells feature
+	- Added linked borders feature
+	- Rewrited certain pieces of code
+
+0.1 2008-07-27
+	- First release
